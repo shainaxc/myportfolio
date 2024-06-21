@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/myportfolio/static/css/main.1c8e5992.css",
+    "main.js": "/myportfolio/static/js/main.fc17ead6.js",
+    "static/media/profile1.jpg": "/myportfolio/static/media/profile1.52c446eb9e6e45756add.jpg",
+    "static/media/profile2.jpg": "/myportfolio/static/media/profile2.e7272a66a6f2eeaba8b6.jpg",
+    "static/media/profile4.jpg": "/myportfolio/static/media/profile4.de4301427d6b8c0723b3.jpg",
+    "static/media/profile5.jpg": "/myportfolio/static/media/profile5.f6634dbfa65afccdde8b.jpg",
+    "static/media/profile6.jpg": "/myportfolio/static/media/profile6.e44f303d209a37d28a50.jpg",
+    "static/media/profile3.jpg": "/myportfolio/static/media/profile3.12566d265ad99ffdadaa.jpg",
+    "static/media/sidebar.png": "/myportfolio/static/media/sidebar.15e8469be0c53aaefc5a.png",
+    "static/media/hoc.png": "/myportfolio/static/media/hoc.afb93c5fec46c17a2881.png",
+    "static/media/ecommerce.png": "/myportfolio/static/media/ecommerce.755eca6b22eabf6fb18d.png",
+    "static/media/musicapp.png": "/myportfolio/static/media/musicapp.0a90527ba2fa2bae3fae.png",
+    "static/media/resume.pdf": "/myportfolio/static/media/resume.944ae2c2747f86318de8.pdf",
+    "static/media/boy.png": "/myportfolio/static/media/boy.73786435a5f2eb97a535.png",
+    "static/media/amazon.png": "/myportfolio/static/media/amazon.aee5480162674e95bcb2.png",
+    "static/media/fiverr.png": "/myportfolio/static/media/fiverr.9b3ab93549a589355cb5.png",
+    "static/media/Shopify.png": "/myportfolio/static/media/Shopify.aace699e99338aa6278c.png",
+    "static/media/glasses.png": "/myportfolio/static/media/glasses.31063a96b1faaeb75b00.png",
+    "static/media/glassesimoji.png": "/myportfolio/static/media/glassesimoji.31063a96b1faaeb75b00.png",
+    "static/media/heartemoji.png": "/myportfolio/static/media/heartemoji.31063a96b1faaeb75b00.png",
+    "static/media/humble.png": "/myportfolio/static/media/humble.31063a96b1faaeb75b00.png",
+    "static/media/thumbup.png": "/myportfolio/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/wave.png": "/myportfolio/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/myportfolio/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/myportfolio/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/Upwork.png": "/myportfolio/static/media/Upwork.d0eab5d65b98f3e24bfa.png",
+    "index.html": "/myportfolio/index.html",
+    "main.1c8e5992.css.map": "/myportfolio/static/css/main.1c8e5992.css.map",
+    "main.fc17ead6.js.map": "/myportfolio/static/js/main.fc17ead6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c8e5992.css",
+    "static/js/main.fc17ead6.js"
+  ]
+}
